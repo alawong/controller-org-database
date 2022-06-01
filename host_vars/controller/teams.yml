@@ -2,3 +2,5 @@
 controller_teams:
   - user: postgres
     organization: Database
+  - user: mysql
+    organization: Database
