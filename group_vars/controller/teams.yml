@@ -1,6 +1,6 @@
 ---
 controller_teams:
-  - user: postgres
+  - name: postgres
     organization: Database
-  - user: mysql
+  - name: mysql
     organization: Database
