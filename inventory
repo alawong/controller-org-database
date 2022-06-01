@@ -1,1 +1,2 @@
-controller
+[controller]
+ansible-ctrl.b660.dynamic.opentlc.com ansible_connection=local
