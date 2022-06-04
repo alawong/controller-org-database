@@ -1,2 +1,1 @@
-ansible-ctrl.b660.dynamic.opentlc.com ansible_connection=local host_alias=controller
-
+localhost
