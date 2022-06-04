@@ -1,1 +1,1 @@
-localhost
+controller ansible_host=localhost
