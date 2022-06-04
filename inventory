@@ -1,1 +1,2 @@
-controller ansible_ssh_host=ansible-ctrl.b660.dynamic.opentlc.com ansible_connection=local
+ansible-ctrl.b660.dynamic.opentlc.com ansible_connection=local host_alias=controller
+
