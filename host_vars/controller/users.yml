@@ -3,3 +3,6 @@ controller_user_accounts:
   - user: jonny
     password: jonny1
     organization: Database Organisation
+  - user: ben
+    password: ben1
+    organization: Database Organisation
