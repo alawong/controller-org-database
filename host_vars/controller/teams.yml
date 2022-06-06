@@ -4,3 +4,5 @@ controller_teams:
     organization: Database Organisation
   - name: mysql
     organization: Database Organisation
+  - name: oracle
+    organization: Database Organisation
