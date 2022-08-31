@@ -1,1 +1,1 @@
-controller ansible_host=ansible-ctrl.b660.dynamic.opentlc.com ansible_connection=local
+controller ansible_host=ansible-ctrl.fed1.dynamic.opentlc.com ansible_connection=local

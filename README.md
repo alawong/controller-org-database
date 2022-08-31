@@ -1,1 +1,3 @@
-# aap-controller-db-config
+# controller-org-database
+
+Contains all configuration for the database organisation
