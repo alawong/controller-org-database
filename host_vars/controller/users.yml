@@ -8,4 +8,4 @@ controller_user_accounts:
     organization: Database Organisation
   - user: sam
     password: hi
-    organization: Database Organization
+    organization: Database Organisation
